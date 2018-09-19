@@ -1,6 +1,6 @@
-# Kodethon Support
+## Description
 
-**Need help with Kodethon?**  Use this issue tracker to report issues, to report bugs, to request new features, or to send us any kind of message.
+Use this issue tracker to report issues, to report bugs, to request new features, or to send us any kind of message.
 
 <!--
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IEWMzU1eYEI
